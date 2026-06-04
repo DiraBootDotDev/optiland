@@ -1,6 +1,0 @@
-﻿apodization
-===========
-
-.. automodule:: apodization
-
-   
